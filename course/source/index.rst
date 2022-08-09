@@ -6,7 +6,8 @@
 
 
 ..  youtube:: MIGQFcVO7-s
-   :aspect: 16:9
+   :width: 368
+   :height: 207
 
 -----------
 Source code
