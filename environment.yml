@@ -1,0 +1,23 @@
+name: course
+channels:
+  - conda-forge
+dependencies:
+  - cmasher
+  - jupyter
+  - lxml
+  - pandas
+  - pillow
+  - pyarrow
+  - requests
+  - scipy
+  - seaborn
+  - sphinx
+  - sphinx-gallery
+  - sphinx_rtd_theme
+  - pip
+  - pip:
+      - adjustText
+      - highlight-text
+      - kloppy
+      - mplsoccer
+      - sphinxcontrib-youtube
