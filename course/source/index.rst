@@ -35,3 +35,9 @@ Contents
 
    gallery/lesson2/plot_pitches
    gallery/lesson2/plot_radar
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lesson 3:
+
+   gallery/lesson3/plot_xg
